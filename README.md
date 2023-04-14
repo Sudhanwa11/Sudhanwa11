@@ -1,6 +1,5 @@
 # Hi there 👋 
 
-<img align="right" alt="Coding" width="250" src=" ">
 
 
 - 🌱 I’m currently learning [Data Structures And Algorithms](https://github.com/Sudhanwa11/Data-Structures-And-Algorithms-In-cpp)
@@ -8,6 +7,7 @@
 - 📄 Check my resume by [Clicking Here!!](https://drive.google.com/file/d/1Hmd_tp18nBmZIXoLX1HyLOsLtLEBaXyC/view?usp=sharing)
 <!--
 **Sudhanwa11/Sudhanwa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="250" src=" ">
 
 Here are some ideas to get you started:
 
