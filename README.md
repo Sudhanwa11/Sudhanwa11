@@ -1,5 +1,8 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋 
 
+- 🌱 I’m currently learning [Data Structures And Algorithms](https://github.com/Sudhanwa11/Data-Structures-And-Algorithms-In-cpp)
+- 📫 Reach me at **sudhanwa00001@gmail.com**
+- 📄 Check my resume by [Clicking Here!!](https://drive.google.com/file/d/1Hmd_tp18nBmZIXoLX1HyLOsLtLEBaXyC/view?usp=sharing)
 <!--
 **Sudhanwa11/Sudhanwa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhanwavaid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanwavaid) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vaid_sudhanwa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sudhanwavaid) 
 
