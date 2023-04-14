@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-<img align="right" alt="Coding" width="250" src="https://www.pngfind.com/pngs/m/614-6142099_batman-clipart-transparent-background-batman-clipart-png-png.png">
+<img align="right" alt="Coding" width="250" src=" ">
 
 
 - 🌱 I’m currently learning [Data Structures And Algorithms](https://github.com/Sudhanwa11/Data-Structures-And-Algorithms-In-cpp)
